@@ -1,2 +1,3 @@
 # profile_card_CSS
-A profile card designed using CSS.
+
+* A profile card design using CSS.
